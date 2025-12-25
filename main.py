@@ -6,9 +6,6 @@ from vector import chroma_store
 # CONFIG
 # -------------------------------------------------
 DOCUMENT_PATH = "resource"
-COLLECTION_NAME = "documents"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-LLM_MODEL = "llama3"
 
 # -------------------------------------------------
 # MAIN
